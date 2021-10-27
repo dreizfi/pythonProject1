@@ -1,4 +1,4 @@
-x = int(input("adidas "))
+x = int(input("Enter 4 digit num"))
 if x > 9999 or x < 1000:
     print("The number you arced is incorrect\n")
 else:
